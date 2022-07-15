@@ -48,7 +48,7 @@
   #items{
     position: relative;
     width: 1630px;
-    left: 100px;
+    left: 110px;
     top: 300px;
   }
 
