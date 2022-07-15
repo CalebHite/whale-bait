@@ -52,7 +52,7 @@
     #output{
         position: absolute;
         top: 155px;
-        left: 500px;
+        right: 500px;
         width: 1200px;
         height: 270px;
         border-radius: 5px;
