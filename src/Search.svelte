@@ -27,7 +27,7 @@ import { create_component } from "svelte/internal";
 
     .item{
         position: absolute;
-        top: 145px;
+        top: 147px;
         left: -65px;
     }
 </style>
